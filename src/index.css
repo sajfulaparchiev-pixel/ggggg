@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;700&family=Onest:wght@400;500;600&display=swap');
+
+@theme {
+  --font-display: 'Unbounded', sans-serif;
+  --font-body: 'Onest', sans-serif;
+}
+
+body {
+  background-color: #030712; /* Very dark slate/blue */
+  color: #f8fafc;
+  overflow-x: hidden;
+}
